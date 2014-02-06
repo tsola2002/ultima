@@ -28,14 +28,16 @@
  */
 ?>
 <div class="header-container">
-    <header class="container">
+    <header class="container main-header">
         <?php if ($this->getIsHomePage()):?>
         <div class="row">
-            <h1 class="logo col col-lg-4"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
-            <?php else:?>
+            <div class="col col-lg-4">
+            <h1 class="logo"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
+            </div>
+                <?php else:?>
                 <h2 class="logo col col-lg-4"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><strong><?php echo $this->getLogoAlt() ?></strong><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h2>
             <?php endif?>
-            <div class="quick-access col col-lg-8">
+            <div class="quick-access col col-lg-5 col-lg-offset-3 ">
                 <?php echo $this->getChildHtml('topLinks') ?>
                 <?php echo $this->getChildHtml('store_language') ?>
                 <?php echo $this->getChildHtml('topSearch') ?>
