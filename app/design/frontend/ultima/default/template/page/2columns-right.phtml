@@ -29,31 +29,29 @@
  * Template for Mage_Page_Block_Html
  */
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->getLang() ?>" lang="<?php echo $this->getLang() ?>">
+<!DOCTYPE html>
+<html>
 <head>
 <?php echo $this->getChildHtml('head') ?>
 </head>
 <body<?php echo $this->getBodyClass()?' class="'.$this->getBodyClass().'"':'' ?>>
 <?php echo $this->getChildHtml('after_body_start') ?>
-<div class="wrapper container">
+<div class="wrapper">
     <?php echo $this->getChildHtml('global_notices') ?>
-    <div class="page">
         <?php echo $this->getChildHtml('header') ?>
-        <div class="main-container col2-right-layout">
+        <div class="container col2-right-layout">
             <div class="main row">
                 <?php echo $this->getChildHtml('breadcrumbs') ?>
-                <div class="col-main  col col-lg-8">
+                <section class="col-main  col col-lg-8">
                     <?php echo $this->getChildHtml('global_messages') ?>
                     <?php echo $this->getChildHtml('content') ?>
-                </div><!--end of .col-main-->
-                <div class="col-right sidebar col col-lg-4"><?php echo $this->getChildHtml('right') ?></div><!--end of .col-right-->
+                </section><!--end of .col-main .col-lg-8-->
+                <aside class="col-right sidebar col col-lg-4"><?php echo $this->getChildHtml('right') ?></aside><!--  end of .col-right .col-lg-4  -->
             </div>
         </div>
         <?php echo $this->getChildHtml('footer') ?>
         <?php echo $this->getChildHtml('global_cookie_notice') ?>
         <?php echo $this->getChildHtml('before_body_end') ?>
-    </div>
 </div>
 <?php echo $this->getAbsoluteFooter() ?>
 </body>
