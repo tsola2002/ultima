@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058ddc08-29a6-4565-898c-8135464db483" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\skin\frontend\ultima\default\css\style" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--0\mage---542_LAYOUT_FRONTEND_STORE1_DEFAULT_DEFAULT" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--0\mage---internal-metadatas---542_LAYOUT_FRONTEND_STORE1_DEFAULT_DEFAULT" afterPath="" />
@@ -162,6 +162,7 @@
     <file path="/.htaccess" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391502061204" ignored="false" />
     <file path="/Dummy.txt" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391684092324" ignored="false" />
     <file path="/tag.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391686506387" ignored="false" />
+    <file path="/local.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391688915524" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,10 +182,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tag.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="tag.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.7710438">
+            <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalog.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="46" selection-start="2107" selection-end="2130" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="42" selection-start="268" selection-end="268" vertical-scroll-proportion="0.16803955">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/checkout.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="66" selection-start="1465" selection-end="1477" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paypal.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="44" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -193,7 +230,7 @@
       <file leaf-file-name="page.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="12" column="42" selection-start="422" selection-end="423" vertical-scroll-proportion="50.44">
               <folding />
             </state>
           </provider>
@@ -225,6 +262,7 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml" />
       </list>
     </option>
   </component>
@@ -677,16 +715,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="44" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="12" column="42" selection-start="422" selection-end="423" vertical-scroll-proportion="50.44">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.7710438">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="46" selection-start="2107" selection-end="2130" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/checkout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="66" selection-start="1465" selection-end="1477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="42" selection-start="268" selection-end="268" vertical-scroll-proportion="0.16803955">
           <folding />
         </state>
       </provider>
