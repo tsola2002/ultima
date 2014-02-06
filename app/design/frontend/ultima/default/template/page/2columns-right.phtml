@@ -36,18 +36,18 @@
 </head>
 <body<?php echo $this->getBodyClass()?' class="'.$this->getBodyClass().'"':'' ?>>
 <?php echo $this->getChildHtml('after_body_start') ?>
-<div class="wrapper">
+<div class="wrapper container">
     <?php echo $this->getChildHtml('global_notices') ?>
     <div class="page">
         <?php echo $this->getChildHtml('header') ?>
         <div class="main-container col2-right-layout">
-            <div class="main">
+            <div class="main row">
                 <?php echo $this->getChildHtml('breadcrumbs') ?>
-                <div class="col-main">
+                <div class="col-main  col col-lg-8">
                     <?php echo $this->getChildHtml('global_messages') ?>
                     <?php echo $this->getChildHtml('content') ?>
-                </div>
-                <div class="col-right sidebar"><?php echo $this->getChildHtml('right') ?></div>
+                </div><!--end of .col-main-->
+                <div class="col-right sidebar col col-lg-4"><?php echo $this->getChildHtml('right') ?></div><!--end of .col-right-->
             </div>
         </div>
         <?php echo $this->getChildHtml('footer') ?>

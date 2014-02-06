@@ -23,3 +23,6 @@
   -o-transition: 0.25s ease-out;
   transition: 0.25s ease-out;
 }
+.col-right {
+  background: #440088;
+}
