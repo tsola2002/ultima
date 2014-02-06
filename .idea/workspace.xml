@@ -2,7 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058ddc08-29a6-4565-898c-8135464db483" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/wells.less" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\skin\frontend\ultima\default\css\style" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--0\mage---542_LAYOUT_FRONTEND_STORE1_DEFAULT_DEFAULT" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--0\mage---internal-metadatas---542_LAYOUT_FRONTEND_STORE1_DEFAULT_DEFAULT" afterPath="" />
@@ -154,7 +217,16 @@
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_uf6hl4n9g2pjnb2398oe2ocl91" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ug241bis8jo8kfih9ub18kfjd2" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_v02kev4h09m1up0pjntr51nip7" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_day_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_day_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_gregorian_format_abbreviated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ultima.iws" />
@@ -163,6 +235,8 @@
     <file path="/Dummy.txt" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391684092324" ignored="false" />
     <file path="/tag.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391686506387" ignored="false" />
     <file path="/local.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391688915524" ignored="false" />
+    <file path="/styles.less" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391691969353" ignored="false" />
+    <file path="/variables.less" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391693057908" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,55 +256,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tag.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
+      <file leaf-file-name="variables.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="catalog.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="46" selection-start="2107" selection-end="2130" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="42" selection-start="268" selection-end="268" vertical-scroll-proportion="0.16803955">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkout.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/checkout.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="66" selection-start="1465" selection-end="1477" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paypal.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="44" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="42" selection-start="422" selection-end="423" vertical-scroll-proportion="50.44">
+            <state line="47" column="35" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.5448276">
               <folding />
             </state>
           </provider>
@@ -247,7 +276,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="store_setup" />
       </map>
     </option>
   </component>
@@ -263,6 +292,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml" />
+        <option value="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/custom.less" />
+        <option value="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" />
+        <option value="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/variables.less" />
       </list>
     </option>
   </component>
@@ -326,6 +358,158 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -377,6 +561,14 @@
               <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -408,7 +600,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -463,6 +727,10 @@
               <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -494,7 +762,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -547,12 +849,22 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ultima\app\design\frontend\ultima\default\template\page" />
+      <recent name="C:\xampp\htdocs\ultima\skin\frontend\ultima\default\components\less" />
+      <recent name="C:\xampp\htdocs\ultima\skin\frontend\ultima\default" />
       <recent name="C:\xampp\htdocs\ultima\app\design\frontend\ultima\default\layout" />
       <recent name="C:\xampp\htdocs\ultima" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -584,7 +896,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -592,7 +904,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25364667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26985413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -670,32 +982,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ultima.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.056013178">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.028619528">
           <folding />
         </state>
@@ -715,20 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="44" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="42" selection-start="422" selection-end="423" vertical-scroll-proportion="50.44">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
@@ -743,16 +1015,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/checkout.xml">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="66" selection-start="1465" selection-end="1477" vertical-scroll-proportion="0.0">
+        <state line="6" column="42" selection-start="268" selection-end="268" vertical-scroll-proportion="0.16803955">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/local.xml">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/checkout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="42" selection-start="268" selection-end="268" vertical-scroll-proportion="0.16803955">
+        <state line="44" column="66" selection-start="1465" selection-end="1477" vertical-scroll-proportion="0.44781145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="44" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.5827703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="42" selection-start="422" selection-end="423" vertical-scroll-proportion="-2.1741378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/js/tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="193" selection-end="194" vertical-scroll-proportion="0.45945945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="35" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.5448276">
           <folding />
         </state>
       </provider>
