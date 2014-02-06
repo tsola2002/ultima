@@ -607,7 +607,17 @@
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vl39dmlpto0e48uef9r0hadic6" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vnmmfe8s7ov15dpuacbh40r420" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vu47dlg0qq3oamplk8fctgj1k2" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/ultima/default/images/logo.png" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/images/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_day_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_day_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_gregorian_format_abbreviated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -618,10 +628,11 @@
     <file path="/Dummy.txt" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391684092324" ignored="false" />
     <file path="/tag.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391686506387" ignored="false" />
     <file path="/local.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391688915524" ignored="false" />
-    <file path="/styles.less" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391708679675" ignored="false" />
+    <file path="/styles.less" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391721103472" ignored="false" />
     <file path="/variables.less" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391693057908" ignored="false" />
     <file path="/2columns-right.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391705711925" ignored="false" />
-    <file path="/header.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391707440323" ignored="false" />
+    <file path="/header.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391720579501" ignored="false" />
+    <file path="/dummy.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391720552333" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -644,7 +655,7 @@
       <file leaf-file-name="styles.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="26" selection-start="869" selection-end="869" vertical-scroll-proportion="0.5810345">
+            <state line="50" column="21" selection-start="895" selection-end="895" vertical-scroll-proportion="0.3862069">
               <folding />
             </state>
           </provider>
@@ -671,7 +682,7 @@
       <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="4" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-4.576923">
+            <state line="42" column="31" selection-start="2028" selection-end="2028" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -795,6 +806,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1051,6 +1096,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="PublishConfig">
@@ -1148,7 +1198,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20259319" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1225,13 +1275,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/catalog/product/view/description.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0">
@@ -1302,20 +1345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="49" selection-start="1421" selection-end="1421" vertical-scroll-proportion="-10.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-4.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1330,9 +1359,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="49" selection-start="1421" selection-end="1421" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="31" selection-start="2028" selection-end="2028" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="26" selection-start="869" selection-end="869" vertical-scroll-proportion="0.5810345">
+        <state line="50" column="21" selection-start="895" selection-end="895" vertical-scroll-proportion="0.3862069">
           <folding />
         </state>
       </provider>

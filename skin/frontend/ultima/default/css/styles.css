@@ -25,7 +25,10 @@
 }
 /*HEADER STYLES*/
 .header-container {
-  background: #2b2b2b;
+  background: #231818;
+}
+.quick-access ul li a {
+  color: #e7e7e7;
 }
 .col-right {
   background: #440088;

@@ -30,16 +30,18 @@
 <div class="header-container">
     <header class="container">
         <?php if ($this->getIsHomePage()):?>
-        <h1 class="logo"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
-        <?php else:?>
-        <h2><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><strong><?php echo $this->getLogoAlt() ?></strong><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h2>
-        <?php endif?>
-        <div class="quick-access">
-            <?php echo $this->getChildHtml('topSearch') ?>
-            <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getAdditionalHtml() ?></p>
-            <?php echo $this->getChildHtml('topLinks') ?>
-            <?php echo $this->getChildHtml('store_language') ?>
-        </div>
+        <div class="row">
+            <h1 class="logo col col-lg-4"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
+            <?php else:?>
+                <h2 class="logo col col-lg-4"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><strong><?php echo $this->getLogoAlt() ?></strong><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h2>
+            <?php endif?>
+            <div class="quick-access col col-lg-8">
+                <?php echo $this->getChildHtml('topLinks') ?>
+                <?php echo $this->getChildHtml('store_language') ?>
+                <?php echo $this->getChildHtml('topSearch') ?>
+            </div>
+        </div><!--  end of .row  -->
+        <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getAdditionalHtml() ?></p>
         <?php echo $this->getChildHtml('topContainer'); ?>
     </header><!--  end of .header  -->
 </div>
