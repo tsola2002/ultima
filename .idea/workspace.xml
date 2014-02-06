@@ -2,26 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058ddc08-29a6-4565-898c-8135464db483" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/catalog/product/view/description.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\skin\frontend\ultima\default\css\style" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--0\mage---542_LAYOUT_FRONTEND_STORE1_DEFAULT_DEFAULT" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--0\mage---internal-metadatas---542_LAYOUT_FRONTEND_STORE1_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--1\mage---542_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--1\mage---internal-metadatas---542_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--2\mage---542_CONFIG_GLOBAL" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--2\mage---internal-metadatas---542_CONFIG_GLOBAL" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--3\mage---542_TRANSLATE_EN_GB_FRONTEND_1_DEFAULT_DEFAULT" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--3\mage---internal-metadatas---542_TRANSLATE_EN_GB_FRONTEND_1_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--4\mage---542_CONFIG_GLOBAL_ADMIN" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--4\mage---542_TRANSLATE_EN_GB_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--4\mage---internal-metadatas---542_CONFIG_GLOBAL_ADMIN" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--4\mage---internal-metadatas---542_TRANSLATE_EN_GB_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---542_CONFIG_GLOBAL_CRONTAB" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---542_CONFIG_GLOBAL_INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---542_CONFIG_GLOBAL_STORES" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---542_CORE_CACHE_INVALIDATE" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---internal-metadatas---542_CONFIG_GLOBAL_CRONTAB" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---internal-metadatas---542_CONFIG_GLOBAL_INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---internal-metadatas---542_CONFIG_GLOBAL_STORES" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--5\mage---internal-metadatas---542_CORE_CACHE_INVALIDATE" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--6\mage---542_CONFIG_GLOBAL_ADMINHTML" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--6\mage---542_CONFIG_GLOBAL_WEBSITES" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--6\mage---internal-metadatas---542_CONFIG_GLOBAL_ADMINHTML" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--6\mage---internal-metadatas---542_CONFIG_GLOBAL_WEBSITES" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---542_ADMINHTML_ACL_MENU_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---542_STORE_ADMIN_CONFIG_CACHE" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---542_STORE_FRENCH_CONFIG_CACHE" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---542_STORE_GERMAN_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---internal-metadatas---542_ADMINHTML_ACL_MENU_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---internal-metadatas---542_STORE_ADMIN_CONFIG_CACHE" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---internal-metadatas---542_STORE_FRENCH_CONFIG_CACHE" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--7\mage---internal-metadatas---542_STORE_GERMAN_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---542_CONFIG_GLOBAL_STORES_ADMIN" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---542_CONFIG_GLOBAL_STORES_FRENCH" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---542_CONFIG_GLOBAL_STORES_GERMAN" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---542_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---542_STORE_DEFAULT_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_ADMIN" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_FRENCH" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_GERMAN" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---internal-metadatas---542_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--8\mage---internal-metadatas---542_STORE_DEFAULT_CONFIG_CACHE" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---542_1F6DA0D3C4793EB0ECE036BAA3FD22EA" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---542_3A06C77C1CB30A7168EA8831E7A5739B" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---542_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---542_DACAE66C3BB427D73B3D0F0E07D4CBF8" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---542_EF7C7C90E050010A5C69878D10DB923E" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---internal-metadatas---542_1F6DA0D3C4793EB0ECE036BAA3FD22EA" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---internal-metadatas---542_3A06C77C1CB30A7168EA8831E7A5739B" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---internal-metadatas---542_DACAE66C3BB427D73B3D0F0E07D4CBF8" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--9\mage---internal-metadatas---542_EF7C7C90E050010A5C69878D10DB923E" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--c\mage---542_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--c\mage---542_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--c\mage---542_APP_E4D52B98688947405EDE639E947EE03D" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--c\mage---internal-metadatas---542_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--c\mage---internal-metadatas---542_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--c\mage---internal-metadatas---542_APP_E4D52B98688947405EDE639E947EE03D" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--d\mage---542_156213884B7C15E9BC3B77AEF581494F410219C7" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--d\mage---542_7874248A64C638423FC4DB1A62DD610ADFEDCF83" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--d\mage---internal-metadatas---542_156213884B7C15E9BC3B77AEF581494F410219C7" afterPath="" />
@@ -36,44 +77,94 @@
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--f\mage---internal-metadatas---542_LAYOUT_045CAC1AA948AF4A96FF97B0B064B568D" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--f\mage---internal-metadatas---542_LAYOUT_14E2F46FB273D9CEA54FDD1B14EB28645" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\cache\mage--f\mage---internal-metadatas---542_LAYOUT_1DC0705D40BBC39A32179EE8A85BEF5D7" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_1.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_1.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_2.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_2.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_3.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_3.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_4.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_4.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_5.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_5.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_6.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_6.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_7.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_7.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_8.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_8.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_9.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_9.lock" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0049acsh5b8dv1j68n3pulqc51" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0lqrnf92mssig0hnq2mt98ice7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0n27n7d0a2t8hs827bqbo1bcr7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0r51uostntl4gkrbse9nn0c4e1" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1bikdjeq4rmfmbm1vgiq4dsg33" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4je7u3pm82tmtvrd94rmg569d2" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_50i3t4be7djpeqqv75043b8c85" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5dmafmhl3qfjkk2qbavvbei282" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5n31eious1d5k2sqm0hm52o194" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6epkve5sv0fch03ffb69m0iqg3" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6f7341h6jv6h00haf2go8117p0" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6gu7fvj6ga60d0018o7bvv3h96" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6mef7ir876i6asjkaome0ljti7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_73m9t608tph74ol5md3senptv6" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7vf56a424rtlkdj6075c46kmt5" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8d3uu9uou6rmc08kkr72dihfb0" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8lv1emtq4g3sq8a7ri54jahj21" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_90fgqe3eo6akie2lpnm2c15ca4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_9v0s42eqohgaud964fv5hthp97" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_btl17g3ls6rebmioie0ua5pok4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_c7lpedcinhhmsbr1vn66vpge82" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_cnp9sc1uvcqii5kms3o0ubp153" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_d6d7trk5jkuciomd14sob36896" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_d760psle6m9m7tiojsajidac93" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f40vj83qnoppb44pe3s8bn8nk4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f6fosr7fo8nshuskc3bdl72b93" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_forkjldfnmcsdticjakkfrmgs7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_gev4ludok4lam5r11ejah4h360" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_gi74q8kdm3iru0b8h3cifmcmr5" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_gupbpdjlmegoic27vv82krb1a7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_h8jg81fq5rg8g9o9spblnj7r50" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_iandln7uj9j4efdp7u4lkn1ks7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ilnphejgto4mg14tk475ogls62" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_isvidbsa7lqsdog5b26scgc6a6" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_joqfpa1qcls0klg954uivgt230" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_k1pcu5l2s5d6ee3rrsrn9313c0" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_k45ikm3jo59pt19p12nd4aogo4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_kduatoipdtjt86t323bitj5081" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_knqmm3jqbd0me87mtlnq1crre4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_kt2414ifen46cn3me0gf03jqa1" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l35bvm2ggss477l5g7bk0embs7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l4gj5iuc28os50b1f69scho8b0" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l576sjqah9ertk6e3vp7k1rup7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l9bsr2tjla80gcg9l0gejc8ku4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_loalq19lcj67opn7i1nnr931u6" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_m8caspvn043s9lubupk3630ro2" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mdp2jvjhqt1rjmvvi36tjk9ve4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_medp19ja1t2dii0d2m488251c3" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mnei7hrj8nmsava294v0o8nhd2" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_murtn0b4nsks4ietmm92cdono3" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_nb4o97nhmtdgnnekc9167tb2u2" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ngjsjvj1l9f7m7175tvds0g4j7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_njvg0bqq20ibdjuq1hiqum9ci1" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_o0g65mnu207fh0ecdb5dpikc04" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_o38ep2ehikefs04na0s0c9oj20" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_oltthc9s9e9l7ubaa2f24mr420" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_oqjvingb4deu8lmt50jipummg0" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_oup70chl07tdds0cfp6m4135d5" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_p2a2ivhtlln3d8rjp083is89a1" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_p6h7sutp3tpavcl9es3erb30u5" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_q0gr4g1unrjvl0lev8fc2q0ke3" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_q7tg86gqje7t4vg3v236qsrdv3" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qlbbnnmn72rd4l5g5l1ultcnt7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qn0bokgiop96o9422lf1ioaf70" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qpbfarve5dkmc4tqi8u2fb7cb1" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_r09moplt6uqf046ot6tkm5imf5" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_rq33n4vesnl4cgtlej9b26la07" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_runsttpd2b5n07hnuvje115ik0" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_s586bl79mnharnagmto783gs76" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ta3kcublhnnck3g7rlpbt5b635" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ta5510bvramr7g8rgfmk66q5j3" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_tioirufv7bqs4pnvsooeng8520" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_u9a9ikarko63po5oio4hkub6l4" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_u9g1ovpvd64dfabov627fcjpc7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ue19oq9enhsgg0qqhs9fiuve64" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_uf6hl4n9g2pjnb2398oe2ocl91" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ug241bis8jo8kfih9ub18kfjd2" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_v02kev4h09m1up0pjntr51nip7" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---542_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---542_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---542_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---542_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---542_CONFIG_GLOBAL_STORES" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---542_CONFIG_GLOBAL_STORES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---542_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---542_CONFIG_GLOBAL_STORES_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---542_CONFIG_GLOBAL_WEBSITES" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---542_CONFIG_GLOBAL_WEBSITES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_ADMINHTML_ACL_MENU_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_ADMINHTML_ACL_MENU_CONFIG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---542_FOOTER_LOCALEEN_GB" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---542_FOOTER_LOCALEEN_GB" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_APP_B1FB6E8F13287C01E5C05063633DDA4C" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_APP_E4D52B98688947405EDE639E947EE03D" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_APP_E4D52B98688947405EDE639E947EE03D" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---542_CONFIG_GLOBAL" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---542_CONFIG_GLOBAL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIG_GLOBAL_ADMINHTML" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIG_GLOBAL_ADMINHTML" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_CONFIG_GLOBAL_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_CONFIG_GLOBAL_ADMIN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_CONFIG_GLOBAL_CRONTAB" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_CONFIG_GLOBAL_CRONTAB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_CONFIG_GLOBAL_INSTALL" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_CONFIG_GLOBAL_INSTALL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_CONFIG_GLOBAL_STORES" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_CONFIG_GLOBAL_STORES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_ADMIN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_CONFIG_GLOBAL_STORES_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIG_GLOBAL_WEBSITES" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIG_GLOBAL_WEBSITES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_CORE_CACHE_OPTIONS" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_CORE_CACHE_OPTIONS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_FOOTER_LOCALEEN_GB" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_FOOTER_LOCALEEN_GB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_JAVASCRIPT_TRANSLATE_CONFIG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---542_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---542_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_STORE_ADMIN_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_STORE_ADMIN_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_STORE_DEFAULT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_STORE_DEFAULT_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_TRANSLATE_EN_GB_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_TRANSLATE_EN_GB_ADMINHTML_0_DEFAULT_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_country_ZA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_language_af" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_language_af" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_ar_DZ_country_DZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_ar_DZ_country_DZ" />
@@ -116,21 +207,37 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_AU_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_AU_language_en" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_CA_country_CA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_CA_country_CA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_CA_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_CA_language_en" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_GB_am_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_GB_am_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_country_GB" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_country_GB" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencynumber_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencysymbol_GBP" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencysymbol_GBP" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencysymbol_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencytoname_GBP" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencytoname_GBP" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencytoregion_GB" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_Zend_LocaleC_en_GB_currencytoregion_GB" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_full" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_full" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_long" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_long" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_medium" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_medium" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_Zend_LocaleC_en_GB_day_gregorian_format_wide_tue" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_Zend_LocaleC_en_GB_day_gregorian_format_wide_tue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_field_week" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_field_week" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_language_en" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_abbreviated_2" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_abbreviated_2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_wide_2" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_wide_2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_GBP" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_GBP" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_GB_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_GB_pm_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_relative_0" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_relative_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_medium" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_country_IE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_country_IE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_language_en" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_country_NZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_country_NZ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_language_en" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_am_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_am_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_US_country_US" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_US_country_US" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_date_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_US_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_US_language_en" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_pm_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_time_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_country_AR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_country_AR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_language_es" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_language_es" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_CL_country_CL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_CL_country_CL" />
@@ -244,18 +351,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_zh_TW_country_TW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_zh_TW_country_TW" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_zh_TW_language_zh" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_zh_TW_language_zh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_day_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_day_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_days_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_GB_days_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_Zend_LocaleL_en_GB_language_" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_Zend_LocaleL_en_GB_language_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_GB_month_gregorian_format_abbreviated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_months_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleL_en_GB_territory_2" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleL_en_GB_territory_2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_day_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_day_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_days_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_days_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_gregorian_format_abbreviated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_US_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_US_months_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ultima.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.htaccess" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391502061204" ignored="false" />
-    <file path="/Dummy.txt" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391502278572" ignored="false" />
+    <file path="/Dummy.txt" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391684092324" ignored="false" />
+    <file path="/tag.xml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391685837801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,19 +389,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
+      <file leaf-file-name="tag.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.056198347">
+            <state line="36" column="30" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.46296296">
               <folding />
             </state>
           </provider>
@@ -318,6 +423,7 @@
       <list>
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml" />
       </list>
     </option>
   </component>
@@ -353,7 +459,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -382,7 +487,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -396,7 +501,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -404,8 +595,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ultima" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,10 +708,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ultima\app\design\frontend\ultima\default\layout" />
       <recent name="C:\xampp\htdocs\ultima" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -485,27 +745,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25364667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -569,23 +829,56 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ultima.sql">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ultima.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.056198347">
+        <state line="2" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.056013178">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.028619528">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/tag.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/catalog/product/view/description.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/tag.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="30" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.46296296">
           <folding />
         </state>
       </provider>
