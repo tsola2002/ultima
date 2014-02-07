@@ -28,7 +28,7 @@
   padding: 46px 0 20px 0;
 }
 .header-container {
-  background: #231818;
+  background: #2b2b2b;
 }
 .quick-access ul li a {
   color: #e7e7e7;
@@ -57,4 +57,21 @@
 }
 .col-right {
   background: #440088;
+}
+/*MAIN NAVIGATION AREA*/
+nav.nav-container {
+  background: #231818;
+  padding: 10px 0;
+}
+nav.nav-container a {
+  color: #e7e7e7;
+  text-decoration: none;
+  font-size: 1.6em;
+}
+nav #nav ul {
+  display: none;
+}
+nav #nav li {
+  display: inline;
+  margin-right: 15px;
 }
