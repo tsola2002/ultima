@@ -2,278 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="058ddc08-29a6-4565-898c-8135464db483" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-left.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/3columns.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/template/container.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/footer.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/template/links.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/template/linksblock.phtml" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_04ilo04pgknad62k29hl6u0884" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_09cmuk8sk191e3sreq36l70eo5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0bn2sk0d9pkblbmi3i96nmnih3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0il3qklnjibstkjmh7cn5o6ef7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0ukig09eh0n6i0qmh6mvkkud23" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_0v2s07i76boon0711ugp961af6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_12dg4esfl6ic09adr98ikkup56" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_169k3l1ao3c5h3kf5laqvpu490" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1g5mb62qce1h3md48bbdd97r77" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1j2a8agt9rqjl1lbnup7vmkb35" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1ll0db7n4f87gen3pgspe52mj1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1m6rcncqs2ttgvs9j109p52t26" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1tktobjf2hj5d7ev7rm9vnvr25" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_1vhlvs1i4qia8qskvjlttibng4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_21v6l39n50ga0id9g61pe6de22" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_29urpna2ac4qk02spc3ah1nhl2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2c69b151440keovbpjampisl33" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2ep838u5utplrbb4dbltho3dj7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2h5dnfr3ik2brn9ss0qcspceq1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2hajn4rsm0v3boldg0ak4pokf0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2jcode7tsvib37scmkll8e6ad5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2kkit2o6d6bu4gto0vnhdee3d5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2tggsm7pgabfoh7lelemislq16" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_2to322pdltl8mc3kte3buutkc6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_366f3gqbduhnjjg7td2isvl031" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_3aukdsvpd96nugn0ehosja0ar5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_3e641ilo9smf8fptl0ikhoh7a0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_3eh0a07evu1ufh2e4f2tp2u7u0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_3p5763r5tl8skja24m34si8ce0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_3tjs6dtt535iadh0j9m3kgp2p6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_3u355c3qe3qi6cliph144nt3t4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_42rh6idcp840g4diu7nup9np75" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4660eu92qgiporq0h34qle0hi2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_46rrebr8nd7u4n7amaai54qr15" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4d37bm4u4eghnhksehrgtgb581" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4dhdefiuuli7rfmcepchrpnkp3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4ehe4nu08f16vbpgip9p5rsh23" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4mbv72hqe0hticltkrcit8tm66" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4q3n3qentagpq75vmai5q12cm0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4rh7kcqg38vhm1biher5547nf5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_4ron9bei0mppbnksl20u96g9g5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_50tejnihr8t351tholm6trc3h4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5294fms4sc3654lqqngoeq9e60" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_544i0u9lgetf76481efuctokl0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5c47tei4ik9tb3t840mch6fsf7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5cu11rblr4fvok0l7bqon9kje2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5fgrjj1jf91uhefpbvoq2eaqn0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5kd07d5a84k5rc95hnpfbkcrv4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5q7n2sjgi74s74lnbg78i24op2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_5rcgdt78sq8rcb0ccif8drrdh4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_69dav55hp8huhgi1l6feft0vg7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_69ma3eu6enal1co66201jqbg77" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6bnlspo3l670a601ss4d8dduj7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6pbipq201l08u1g88nrr040eh4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6vg8laj1n9r6rqmh2etu5tg6p5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_6vm7ku8suh9fg8u9a6jh1l27g7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_71g9shfjpjc8ukqm0givktcto6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_73mnqtq15snr0qem1j5c8cm0m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7603jgvgnajgsn0dfcbe4r6hh6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_77f2jndss1uhjha98spbcag675" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_77mg5djje05tra44g7995dnqu0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7a55l9vjg7v3ivtkfkgesu1l54" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7bdhrfp4m8kd29ui61fosrs9f5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7h7m1h319rlfv5jhmptsv4vjf1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7j9b0kkimdpq3mvmrpdcs7vka2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7l2o252il813meguk7euicrln4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7nvfjfg7ulspkdpiq49rd2ivc7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7t2gr1b9ge3o2mvn0dq90fkha6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_7t5m6gjl8dbiodgpgmujda5en7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_80mjnh1p9tmdg72pdf94h4imi4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8fo0ppdjmv8pviccgrbqgtc3m7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8lcdpkgfm9snb98cls9m4fteo3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8mficfhl33uun0ffcgi4onhcp3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8rjtfmb8sblkh6lqnkoce2paa7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8t6mld2s1tcnruvl0nbpj10r62" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_8u7kqbi3ianqg8gr7rhcbuo697" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_94p25dedlvkhl8tkcbp4nfk2l4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_98fjge6acpt37grl0gi2tpnmp1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_9cdj4kafpakufro9g2m1nm8933" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_9k9ldvkjl5sgku02repvhk0mu2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_9nl523ap2b4av5vg1qgoqvj896" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_9to41p3mu48gdub2l2cdna1le7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_9vvvspal71q5ichg8fm7usm7e1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_a0a6gt4cf8puq2el8l6k9ed8j7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_a5q81ghauhvt19jstrunb2h662" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_a6ouuijmoa3qk4ginssssrjuu4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_a7ccdf3nhb6895h1p39if4cba1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_anscmcq9bkja54d2sclq420ka5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_arsj71sdtp7ld7a19scsujg2p3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_asb3j02rtcf3ndc6pigrg21u83" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_atjovp1jk9itjcilpc4gs70hi3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_au2lgd7p9jdct1o71jvcouctq6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_avoh9uud4otr8fj6k6rjgacju5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_b48hvo9g9o2khn6m1s48nhomo4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_bdmcjmv35le9ket8t8klpucn72" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_bgsagtceo1ab82btfb8oqeut92" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_biudhtkjdfhan09ua4941nb7u0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_bj521stpo8n9dnuj8opaf7tu17" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_bmk8ncbof0pqb3u06aca2ucpi0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_bobjabhprcegurjrql2pp3s1i0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_buo9ubphckbuk0h8ovgk3kgro1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_c260b72vdqbdnunrobfid0ini0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_c367fktkqshcr47dsr9bih9a73" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_c6dif615nc5k4mc1tsm3ooo993" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_c7qt1f7rbp9n39fkp3k4mnqok3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_c87qf2npsit558kqgj7jh8v9u2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_cgqe3hliqtu2nl6gnhc2hfq0n4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ch259n5nj4eqgjvjjidnhhp722" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_chc1bqtnm30deifr05ffio5eh2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_cravj32jamuon1vf2bb96mems7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_d1qpk863qk8dd9lkh2er9ih1k6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_d2e7qtfmb7h7h8u813lrcqt920" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_d5o1imlu0cmqd2jtfpja6k25s1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_d712gg95f2bg48msrhiknufhd3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_dclv9v5d1cu86bucd0pkfdkv90" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_dh07q8dnvh7mbt3t1c2g40bjh3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_dqv9od56hbr7n9jl5ufc5jfjf5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_dt43m1lfcbslrvrt819um4p553" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_dtm3cn5gj0gm1s0bilto288ip7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_e3ja4om352ojj6mq5r7uoqvec7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_e70pfmfkjokfo11ohjmjb217e3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_e8j4cfltn4desp5rs4u8o1vlt7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_eeojhnjegmplh80ra602kmc6t5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ek0hmrelkvt25kd0f0cuo6ed51" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_eqd7li94lbk0is6o9vaq1ccoq5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_etg164rfcl04q88uoi3fi3dhm5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_eue3o51bpvk9g1c2hct699lgg2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f08aiu7qumhbvfrhh0ar1ce714" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f14ofbeirurn2htg4tf4omr3v3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f4v0rug6ch77sirc0mfjth4gg2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f68qf1sbsnr0dijv9aleej90o1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_f7k34liiltt97fuahq21plsdr0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_fbjhjbvopjgn955a4j1vphirl3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ff3850tkeit0mq5klq0hcktbs2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_fk3s58g9mpq1qll5f4geb1g044" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_fmc6fpera0tbp1jqjra1cek510" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_fmss0kcljmbljqem1o68qh7la6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_fpk29quithlmf3d9mg30qrhvb7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_frohkgksfk5317uarat9i5tau0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ftc2jrf240dr7keokkj9a8opf3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_g3laslnbhg81egejvvag3jmta3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_h17p3l985up8higs0jmustsob1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_h5eeai2gb2vm188jp0o7bjb6j2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_h69lk2uu0lqojvrt858chgp6h3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_h8cfmtl21cnif6f0f2iiegk4f5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_hatt4n2rg3pha2qv0hoac5dv20" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_he99kc4te4pihkvmdj2vnjub71" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_hn4dpnf3btbaeaker89l9v5qn6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_hq48j5rkucrl1qvqovdj98a6a6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_hsgukrdg32us5he9gkuthvvv16" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_i372ap8a3n1ghmn9tve1vi3uf5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_i3teshdhu8ogfnlfa7s8ointo5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_i7pia6difsnrhet0ior982mo90" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_icf5k7djd9poscc2vd0j19m3o1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_icp95f6s6qudpk5039ah2a5hk2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_im900ab5bjioi44mb7fqap9707" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_iq0n6osus9ch4od67gd4hk0gj1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_j3698s2tnjapnughocq2b6nac2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_j46mubbckj81gkunb4f059v5q7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_j6atj52gl72lk9oeefhtmc2n34" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_j6q6c29harbbvb75e694v979p6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_j8ks7m4ad57uqkhjhjple3gmk6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ja8heidj35ottk0nsfetj6rte6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_jbce8hdhjq3pitt6b5uivs1s47" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_jh8uuh1jdc98ce5ag38soct7m3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_jrgnglq9piv924klfopbvaoq31" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_jvhip912k3bq6pn6chh2gbr8p1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_k7e5ceao9aert9dodda4bn1cv7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_k9lanvnrpn9v0cdnmbbutp5k21" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ka5he8ptpo9ubptcu3l4rfaeb5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_kh8tafdrqea1fibgi7q2en26e1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_khuvmd6vv7bum5fs02buhti2n3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_kv63k66nlub0o8lnua9e41dq63" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l14541rc5rcbpbd9ne4hfkhbk0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l2bphk67ugf72bjmo8rg4r3804" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_l4c5tckmboblobrrhh722iqf75" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ljr9592vh36939gt3e0bd0lmv4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_lklo2kpiio6fenpkurc3k9mcf1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_lph68eb5e8hn2h19rb2ffun3v0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mb0adq4d1tl3oi1042og4q7i44" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mb5e56t4ksdcoosmiirdfi8i81" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mb6vto3mvfd3rbujao2vg8cdu4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mgaihjgi5e6sfiq6o1v2pti1o0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mgchmqf26udrlkfnuv790dp6d6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mhj0fa4c5ek224qb5b51egiq66" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mo6h7us1mt9ustjje16c1k03l0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mqcq5ert7qgbpsm7vp55o3h8q5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_mv3kcpj93hrjt5ph1ohgkmptk1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_n5rc4g8h5ju1u1ua5eqnadstt6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_natt13ds21vnjaeabocj296471" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ne4aes6ao9iai1p0sqgv0e21e2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ne89tp3nbitnhk3er9qp1bq7g7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_nfgp9jqeeastr12rc2f4igc1r5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_nlehjgv43m8vcf0jdqmqqgn6a4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_oq8hcebcr7bhjs3h88v18c6ct5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_or0jojduhh8234he2mj0ajs264" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_p0oqrdr3s9l4qi8ljvag7kfcd0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_p20941su6p3ojra6fg02154612" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_p8o3u6cnnv5tdk59n7288uob07" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_pfmefj1jfvcrjkg0kjmkpiv4r3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_pgcgsbq2ac4i3pqsp7b0kpl875" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_pm042180ealbi8tno505jmf4e7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_pp6qm0tt6tr7bqbfq14re4dko1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ppra2rcdcleau1bk17qpeiocl3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_pqfeglr3qig8ckjmv9auj4be05" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_pu5rb8n1q7dj8nkkh3v3uj1s14" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_q17r7026n3b3geua6o5k1cbd45" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_q2kq7v687b3n7sao92fihk35g6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_q9hd4rpqc45c15e3te30acm466" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qcfctbock9du2uolo8guhtb997" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qcuc7gan6knd8cpkgkebn08u45" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qgd1o85ih7d31um06lq1ddfhc0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qjka0ri1dn12tni5bpkp91pcl1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qmde2gmhkcj0ouoea6cs1m8uf3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_qtljphj0606i6rikj8487lgvs0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_r3jgvijiof8mjv6eng5ljr5152" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_r755m1dv6b1m94nu1cmhve5tj2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_r8srf5cmes2090a5820q82gp04" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_rccflueoj8heikljqtvo61c2s0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_rdv5qnkduv151n8j87iou9q2q5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ro169326n3huf7jh9ugs9rtd54" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_rp8vl118kdm3gai63l9ph7re64" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_rqeajh52qrlpjf85l80683g072" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_rtkl27nag680cmkp6adali1tu3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_s3sirj1aajanet472mj7o478k0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_sdgl23cqoutr6pj5c63gu4un66" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_si19v7cl5lrts1ouaasdpjmac3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_spk7snqrfd6mplo7hqloj2qfm6" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_stbja50ap62p3oku45623c2kq1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_svg54l0mhonmg5qcp4i4nhccu0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_t091bp3aniufen1of6j53lfpr3" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_t1c9mj6asgf655n98s486ed5u7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_t4vcb7r37c9788s3ih2ammgt04" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_t50lvooci1pphk3hc51peimm84" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_t5rthevrqctf3ov1pbrvgvs124" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_t9o1nchcj0nd7a4e2ht6esrg47" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_tiv8f0isip3jgvkd09dginjco7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_tmeuq6csg0duiqakkq0narj200" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_trvilg2kvshepck5prq4rq57e0" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_tv994ak4fh3t5sbpj3s1frqrm5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ub4lq0fpk8o6kl1831r3d617e4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ubskvkor0anbovfll8sd6emmt1" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ud0n9hmq547elrptja5ps82v73" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_ukkeu6buvel9stcrinv90f9a23" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_uleu76fa3ihkh08l2ivgnv7t00" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_uo6np3mlq67r0lfbpvsql6b4u2" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_urddaiht8j2i46cne2aj64hc84" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_uucgfbv7juoj4lml023vc42154" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_v98gfjdubv095jsin331mtc1i5" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vbnteojssrf6mm58j5i6jgb684" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vhge80d7lk8df8d9c828bhr367" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vluiftqtm9dthhpi1413gbg606" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vo361t6pddmo537simoc8fgmh4" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vq72tf8lm51cuqjnvb99ena7q7" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\ultima\var\session\sess_vvdg1ici3j0nbq0ofc399v4eg1" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-left.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-left.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/3columns.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/3columns.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_1.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_1.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_2.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_2.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_3.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_3.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_4.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_4.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_5.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_5.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_6.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_6.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_7.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_7.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_8.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_8.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/locks/index_process_9.lock" afterPath="$PROJECT_DIR$/var/locks/index_process_9.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---542_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---542_ADMIN_NOTIFICATIONS_LASTCHECK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_ADMIN_NOTIFICATIONS_LASTCHECK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_eav_attribute_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_eav_attribute_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_index_event_1" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_index_event_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_url_info_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_report_event_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_report_event_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_FOOTER_LOCALEEN_GB" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---542_FOOTER_LOCALEEN_GB" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_country_ZA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_language_af" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_af_ZA_language_af" />
@@ -331,25 +80,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_short" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_date_short" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_field_week" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_field_week" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_language_en" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_abbreviated_2" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_abbreviated_2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_abbreviated_8" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_abbreviated_8" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_wide_2" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---542_Zend_LocaleC_en_GB_month_gregorian_format_wide_2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_GBP" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_GBP" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---542_Zend_LocaleC_en_GB_nametocurrency_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_GB_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_GB_pm_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_relative_0" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_relative_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_medium" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_GB_time_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_country_IE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_country_IE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_IE_language_en" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_country_NZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_country_NZ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_NZ_language_en" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_am_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_am_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_US_country_US" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_en_US_country_US" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_date_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_US_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleC_en_US_language_en" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---542_Zend_LocaleC_en_US_pm_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleC_en_US_time_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_country_AR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_country_AR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_language_es" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_AR_language_es" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_CL_country_CL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---542_Zend_LocaleC_es_CL_country_CL" />
@@ -470,14 +212,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_months_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_GB_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleL_en_GB_territory_2" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---542_Zend_LocaleL_en_GB_territory_2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_day_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_day_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_days_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---542_Zend_LocaleL_en_US_days_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_gregorian_format_abbreviated" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---542_Zend_LocaleL_en_US_month_gregorian_format_abbreviated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_US_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---542_Zend_LocaleL_en_US_months_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" afterPath="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/topmenu.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/topmenu.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ultima.iws" />
@@ -494,6 +230,9 @@
     <file path="/topmenu.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391777718793" ignored="false" />
     <file path="/footer.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391799523733" ignored="false" />
     <file path="/links.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391799161429" ignored="false" />
+    <file path="/2columns-left.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391883524892" ignored="false" />
+    <file path="/3columns.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391884682992" ignored="false" />
+    <file path="/1column.phtml" changelist="058ddc08-29a6-4565-898c-8135464db483" time="1391885480376" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -513,15 +252,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="topmenu.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/topmenu.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="14" selection-start="1604" selection-end="1604" vertical-scroll-proportion="-11.115385">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
@@ -531,46 +261,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1column.phtml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="links.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/template/links.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="29" selection-start="1126" selection-end="1126" vertical-scroll-proportion="-5.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/footer.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="13" selection-start="1211" selection-end="1211" vertical-scroll-proportion="-5.8846154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="65" selection-start="1859" selection-end="1859" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2columns-right.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="49" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.0">
+            <state line="33" column="6" selection-start="1026" selection-end="1055" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2columns-left.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-left.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="60" selection-start="2065" selection-end="2065" vertical-scroll-proportion="-17.038462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3columns.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/3columns.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="60" selection-start="2198" selection-end="2198" vertical-scroll-proportion="-16.346153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1column.phtml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="50" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.44214162">
               <folding />
             </state>
           </provider>
@@ -611,14 +332,18 @@
         <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/template/links.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/footer.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/page/2columns-left.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-left.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/3columns.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="92" />
-    <option name="width" value="866" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
     <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1157,11 +882,15 @@
       <created>1391775535156</created>
       <updated>1391775535156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16_footer template styled">
+      <created>1391881618512</created>
+      <updated>1391881618512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="92" width="866" height="786" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1170,7 +899,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3880597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25283632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1248,23 +977,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="44" selection-start="6252" selection-end="6252" vertical-scroll-proportion="0.5827703">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/layout/page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="42" selection-start="422" selection-end="423" vertical-scroll-proportion="-2.1741378" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/js/tab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/css/theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1288,7 +1000,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/variables.less">
@@ -1301,13 +1015,6 @@
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/images/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="49" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/html/header.phtml">
@@ -1338,6 +1045,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/page/2columns-left.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="41" selection-start="1308" selection-end="1308" vertical-scroll-proportion="0.27031803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/ultima/default/components/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="105" column="17" selection-start="1544" selection-end="1544" vertical-scroll-proportion="-9.44">
@@ -1345,9 +1059,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-right.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="6" selection-start="1026" selection-end="1055" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/2columns-left.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="60" selection-start="2065" selection-end="2065" vertical-scroll-proportion="-17.038462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/3columns.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="60" selection-start="2198" selection-end="2198" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/ultima/default/template/page/1column.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="44" column="50" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.44214162">
           <folding />
         </state>
       </provider>
