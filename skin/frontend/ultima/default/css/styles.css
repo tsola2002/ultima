@@ -59,19 +59,22 @@
   background: #440088;
 }
 /*MAIN NAVIGATION AREA*/
-nav.nav-container {
-  background: #231818;
-  padding: 10px 0;
-}
-nav.nav-container a {
-  color: #e7e7e7;
-  text-decoration: none;
-  font-size: 1.6em;
-}
 nav #nav ul {
   display: none;
 }
-nav #nav li {
-  display: inline;
-  margin-right: 15px;
+/*FOOTER AREA*/
+.footer-container {
+  background: #2b2b2b;
+  color: #e7e7e7;
+  padding: 40px 0;
+}
+.footer {
+  color: #e7e7e7;
+}
+.footer ul li a {
+  color: #e7e7e7;
+}
+ul.flink li,
+ul.links li {
+  list-style: none;
 }
