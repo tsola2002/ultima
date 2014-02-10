@@ -183,6 +183,7 @@ class Varien_File_Uploader
             $this->_createDestinationFolder($destinationFolder);
         }
 
+
         if (!is_writable($destinationFolder)) {
             throw new Exception('Destination folder is not writable or does not exists.');
         }
